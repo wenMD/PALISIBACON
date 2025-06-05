@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Us
+permalink: /about/
 ---
 
 # About the PALISI BACON Subgroup
