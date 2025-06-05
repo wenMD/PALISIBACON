@@ -1,5 +1,26 @@
+# _config.yml
+
 title: PALISI BACON Subgroup
 email: TBD@example.com
-baseurl: ""
-url: "https://yourgithubusername.github.io"
+description: >
+  Official website of the PALISI BACON Subgroup: a collaborative research group focused on bronchiolitis and pediatric viral lower respiratory tract infections.
+
+# GitHub Pages settings
+baseurl: "" # leave empty unless using a subfolder
+url: "https://yourusername.github.io" # replace 'yourusername' with your GitHub username
+
+# Theme and plugins
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Output settings for blog posts (optional)
+collections:
+  posts:
+    output: true
