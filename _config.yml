@@ -1,13 +1,13 @@
 # _config.yml
 
 title: PALISI BACON Subgroup
-email: TBD@example.com
+email: BaconStudy@nationwidechildrens.org
 description: >
   Official website of the PALISI BACON Subgroup: a collaborative research group focused on bronchiolitis and pediatric viral lower respiratory tract infections.
 
 # GitHub Pages settings
 baseurl: "" # leave empty unless using a subfolder
-url: "https://yourusername.github.io" # replace 'yourusername' with your GitHub username
+url: "https://wenmd.github.io" 
 
 # Theme and plugins
 theme: minima
