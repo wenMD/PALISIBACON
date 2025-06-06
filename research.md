@@ -6,7 +6,7 @@ permalink: /research/
 
 # PALISI BACON Subgroup Publications
 
-1. **Karsies T**, Shein SL, Diaz F, Vasquez-Hoyos P, Alexander R, Pon S, González-Dambrauskas S, with the Bronchiolitis And COdetectioN (BACON) Study Investigators. *Prevalence of Bacterial Codetection and Outcomes for Infants Intubated for Respiratory Infections*. Pediatr Crit Care Med. 2024 Jul 1;25(7):609-620.
+1. Karsies T, Shein SL, Diaz F, Vasquez-Hoyos P, Alexander R, Pon S, González-Dambrauskas S, with the Bronchiolitis And COdetectioN (BACON) Study Investigators. *Prevalence of Bacterial Codetection and Outcomes for Infants Intubated for Respiratory Infections*. Pediatr Crit Care Med. 2024 Jul 1;25(7):609-620.
 
 2. Gonzalez-Dambrauskas S, Vasquez-Hoyos P, Camporesi A, Cantillano EM, Dallefeld S, Dominguez-Rojas J, Francoeur C, Gurbanov A, Mazzillo-Vega L, Shein SL, Yock-Corrales A, Karsies T. *Paediatric critical COVID-19 and mortality in a multinational prospective cohort*. Lancet Reg Health Am. 2022 Aug:12:100272.
 
