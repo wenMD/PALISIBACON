@@ -1,6 +1,7 @@
 ---
 layout: default
-title: /sites/
+title: Sites
+permalink: /sites/
 ---
 
 # Participating Sites
