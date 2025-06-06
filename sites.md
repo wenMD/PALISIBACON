@@ -90,7 +90,7 @@ New Haven, Connecticut
 
 ### PALISI BACON Subgroup Sites Map
 
-![US Map]({{ '/assets/images/BACON US Map.png' | relative_url }})
+![US Map]({{ '/PALISIBACON/assets/images/BACON US Map.png' | relative_url }})
 
 ---
 
@@ -209,4 +209,4 @@ Milan, Italy
 
 ### BACON Affiliate Sites Map
 
-![World Map]({{ '/assets/images/BACON World Map.png' | relative_url }})
+![World Map]({{ '/PALISIBACON/assets/images/BACON World Map.png' | relative_url }})
