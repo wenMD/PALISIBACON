@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-permalink: /research/
+title: Elections
+permalink: /elections/
 ---
 
-<h2>Research and Publications</h2>
+<h2>Elections Process</h2>
