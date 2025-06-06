@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sites
+title: /sites/
 ---
 
 # Participating Sites
