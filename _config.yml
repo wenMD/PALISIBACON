@@ -6,7 +6,7 @@ description: >
   Official website of the PALISI BACON Subgroup: a collaborative research group focused on bronchiolitis and pediatric viral lower respiratory tract infections.
 
 # GitHub Pages settings
-baseurl: ""  
+baseurl: "/PALISIBACON"  
 url: "https://wenmd.github.io" 
 
 # Theme and plugins
