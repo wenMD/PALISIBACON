@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Participating Sites
+title: Sites
 ---
 
-# PALISI BACON Subgroup Sites
+# Participating Sites
 
-Aga khan University  
+## PALISI BACON Subgroup Sites
+
+Aga Khan University  
 Karachi, Pakistan  
 Akron Children's Hospital  
 Akron, Ohio  
@@ -34,7 +36,7 @@ Indianapolis, Indiana
 University of Miami Jackson Memorial Hospital  
 Miami, Florida  
 Cooperman Barnabas Medical Center  
-Livingston New Jersey  
+Livingston, New Jersey  
 Loma Linda University Children's Hospital  
 Loma Linda, California  
 Lurie Children's Hospital  
@@ -86,6 +88,12 @@ New York City, New York
 Yale New Haven Children's Hospital  
 New Haven, Connecticut  
 
+### PALISI BACON Subgroup Sites Map
+
+![US Map]({{ '/assets/images/BACON US Map.png' | relative_url }})
+
+---
+
 ## BACON Subgroup Affiliate Sites
 
 Adan Hospital  
@@ -104,7 +112,7 @@ Ankara University School of Medicine
 Ankara, Turkey  
 BC Children's Hospital  
 Vancouver, BC, Canada  
-Bon Secours St.Mary's Hospital  
+Bon Secours St. Mary's Hospital  
 Richmond, Virginia  
 Centro Hospitalar Universitário Coimbra  
 Coimbra, Portugal  
@@ -114,7 +122,7 @@ CHI Temple Street Dublin
 Dublin, Ireland  
 Clínica Infantil Club Noel  
 Cali, Colombia  
-Corewell Children's-Beaumont  
+Corewell Children's–Beaumont  
 Royal Oak, Michigan  
 Farwaniya Hospital  
 Sabah Al-Naser City, Kuwait  
@@ -136,13 +144,13 @@ Hospital Infantil Los Ángeles
 Pasto, Colombia  
 Hospital Israelita Albert Einstein  
 Sao Paolo, Brazil  
-Hospital Nacional de Niños ¨Dr. Carlos Saenz Herrera¨  
+Hospital Nacional de Niños "Dr. Carlos Saenz Herrera"  
 San Jose, Costa Rica  
 Hospital Professor Doutor Amadora Sintra  
 Lisbon, Portugal  
-Hospital Público Materno Infantil de Salta. Argentina  
+Hospital Público Materno Infantil de Salta  
 Salta, Argentina  
-Hospital Sant Joan de Deu  
+Hospital Sant Joan de Déu  
 Barcelona, Spain  
 Hospital SEPACO  
 Sao Paolo, Brazil  
@@ -156,19 +164,19 @@ Instituto Nacional de Salud del Niño
 Lima, Peru  
 Istanbul Medipol University  
 Istanbul, Turkey  
-Istituto Giannina Gaslini Genova Italy  
+Istituto Giannina Gaslini  
 Genoa, Italy  
 King Abdulaziz University  
 Jeddah, Saudi Arabia  
 Liv Bona Dea Hospital  
-Bakü, Azerbaijan  
+Baku, Azerbaijan  
 Marmara University  
 Istanbul, Turkey  
 Medical College of Georgia  
 Augusta, Georgia  
 MNGHA  
 Jeddah, Saudi Arabia  
-Montreal Children's Hospital - McGill University Health Center  
+Montreal Children's Hospital – McGill University Health Center  
 Montreal, Canada  
 Obras Sociais Irmã Dulce  
 Salvador, Brazil  
@@ -178,11 +186,11 @@ Phoenix Children's Hospital
 Phoenix, Arizona  
 Rede D’or  
 Sao Paolo, Brazil  
-Ribeirao Preto Medical School - University of Sao Paulo  
+Ribeirao Preto Medical School – University of Sao Paulo  
 Sao Paolo, Brazil  
 Rutgers NJMS  
 Newark, New Jersey  
-Sabará Childrens hospital  
+Sabará Children’s Hospital  
 Sao Paolo, Brazil  
 San Bortolo Hospital  
 Vicenza, Italy  
@@ -196,13 +204,9 @@ Universidad Finis Terrae
 Santiago, Chile  
 University of South Alabama  
 Mobile, Alabama  
-Vittore Buzzi Children's hospital  
-Milan, Italy
+Vittore Buzzi Children's Hospital  
+Milan, Italy  
 
-## Maps of Participating Sites
+### BACON Affiliate Sites Map
 
-### PALISI BACON Subgroup Sites
-![US Site Map](/assets/images/BACON%20US%20Map.png)
-
-### BACON Affiliate Sites
-![Global Site Map](/assets/images/BACON%20World%20Map.png)
+![World Map]({{ '/assets/images/BACON World Map.png' | relative_url }})
